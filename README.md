@@ -10,7 +10,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Installation
 
-    $ npm install passport-localapikey-update
+    $ npm install passport-localapikey-es6
 
 ## Usage
 

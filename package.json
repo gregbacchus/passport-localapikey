@@ -1,23 +1,22 @@
 {
-  "name": "passport-localapikey-update",
+  "name": "passport-localapikey-es6",
   "version": "0.5.0",
   "description": "Updated version of local api key authentication strategy for Passport originally created by Sudhakar Mani.",
   "author": {
-    "name": "antgraf",
-    "email": "antgraf@gmail.com",
-    "url": "http://linkedin.com/in/antonpototsky/"
+    "name": "gregbacchus"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/antgraf/passport-localapikey.git"
+    "url": "git://github.com/gregbacchus/passport-localapikey.git"
   },
   "bugs": {
-    "url": "https://github.com/antgraf/passport-localapikey/issues"
+    "url": "https://github.com/gregbacchus/passport-localapikey/issues"
   },
   "main": "./lib/passport-localapikey",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport-strategy": "1.x.x"
+    "es6-error": "^2.0.2",
+    "passport-strategy": "1.x.x",
+    "pkginfo": "0.2.x"
   },
   "devDependencies": {
     "vows": "0.7.x",
